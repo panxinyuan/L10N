@@ -419,7 +419,7 @@
     <string name="fragment_share_with_public_title">公開直播</string>
     <string name="fragment_share_with_public_summary">與所有人分享</string>
     <string name="fragment_share_with_only_me_title">個人直播</string>
-    <string name="fragment_share_with_only_me_summary">僅限本來</string>
+    <string name="fragment_share_with_only_me_summary">僅限本人</string>
     <string name="fragment_share_with_friends_title">私人直播</string>
     <string name="fragment_share_with_friends_summary">與指定的朋友分享</string>
     <string name="fragment_share_with_friends_tips">您的 %d 位朋友將觀看你的直播</string>
@@ -440,7 +440,7 @@
     <string name="fragment_share_bottom_share_fb_title">分享到 Facebook</string>
     <string name="fragment_share_bottom_share_twitter_title">分享到 Twitter</string>
     <string name="fragment_share_bottom_title">分享到</string>
-    <string name="fragment_streaming_broadcast_network_type_allowed">正在使用行動網路,是否允許直播</string>
+    <string name="fragment_streaming_broadcast_network_type_allowed">正在使用行動網路 , 是否允許直播</string>
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">不再顯示</string>
     <string name="menu_message">私信</string>
     <string name="message_mark_read">全部標記為已讀</string>
@@ -454,8 +454,8 @@
     <string name="notification_push_text_big_title %s">條新訊息</string>
     <string name="pref_summary_video_fullscreen">影片全屏畫面</string>
     <string name="pref_title_video_fullscreen">全屏畫面</string>
-    <string name="toast_msg_buy_shou_cash_status_consumed_error ShouCash">消費失敗，請回報到hello@shou.tv</string>
+    <string name="toast_msg_buy_shou_cash_status_consumed_error">ShouCash 購買失敗，請回報到 hello@shou.tv</string>
     <string name="toast_msg_buy_shou_cash_status_google_play_error">從 Google Play 購買失敗</string>
-    <string name="toast_msg_buy_shou_cash_status_server_error ShouCash">購買失敗，請重啟程式</string>
+    <string name="toast_msg_buy_shou_cash_status_server_error">ShouCash 購買失敗，請重啟程式</string>
     <string name="notification_push_live_big_title">您關注的 %s 位主播正在直播</string>
 </resources>
